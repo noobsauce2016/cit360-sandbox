@@ -30,7 +30,7 @@ public class httpConnections{
     }
     catch (Exception e)
     {
-      // deal with the exception in your "controller"
+      // deal with the exception in the "controller"
     }
   }
  
